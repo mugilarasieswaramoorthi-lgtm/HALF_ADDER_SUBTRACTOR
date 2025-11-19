@@ -69,11 +69,20 @@ Developed by:MUGILARASI E
 RegisterNumber:25017644
 
 **RTL Schematic**
+HALF_ADDER
 <img width="1919" height="1079" alt="Screenshot 2025-11-15 222714" src="https://github.com/user-attachments/assets/b007db55-3d47-443b-80a8-d929065d8464" />
+
+HALF_SUBTRACTOR
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 111707" src="https://github.com/user-attachments/assets/6b00a70c-a8a7-4ca4-92e2-28a065dcb190" />
 
 
 **Output/TIMING Waveform**
+HALF_ADDER
 <img width="1919" height="1079" alt="Screenshot 2025-11-15 222659" src="https://github.com/user-attachments/assets/66bf40fa-3df1-41b8-8a1e-b713332968e1" />
+
+HALF_SUBTRACTOR
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 111723" src="https://github.com/user-attachments/assets/43147d7d-9b53-4732-bc2a-525a75940685" />
+
 
 
 
